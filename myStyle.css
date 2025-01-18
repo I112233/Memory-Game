@@ -1,5 +1,5 @@
 body {
-  margin-top: 25%;
+  margin-top: 10%;
 }
 
 h1 {
@@ -39,7 +39,7 @@ h1 {
 }
 
 .board div.showing {
-  background: #e26000;
+  background: #ff97fd;
   transform: matrix3d(1, 0, 4, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1);
 }
 
